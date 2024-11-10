@@ -1,0 +1,3 @@
+[submodule "references/azureml-examples"]
+	path = references/azureml-examples
+	url = https://github.com/Azure/azureml-examples.git
